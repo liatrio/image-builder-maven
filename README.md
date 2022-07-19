@@ -33,4 +33,4 @@ stage('Build') {
 ```
 
 ## What is installed on this image?
-- Version [3.8.5](https://maven.apache.org/docs/3.8.5/release-notes.html) of Java build automation tool Maven.
+- Version [3.8.6](https://maven.apache.org/docs/3.8.5/release-notes.html) of Java build automation tool Maven.
